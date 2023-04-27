@@ -54,6 +54,11 @@ h2 {
     color: #252525;
 }
 
+#logo {
+    float: left;
+    font-size: 280%;
+}
+
 /*hero-image*/
 
 #hero-outer {
